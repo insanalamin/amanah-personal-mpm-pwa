@@ -16,16 +16,18 @@ PWA for Amanah Personal Multi-Project Management Tool
 
 ## Data Structures
 
-### Task Container
+### Amanah
 |Field|Type|Example|
 |---|---|---|
 |uuid|||
-|parent container uuid|||
-|type||folder / project|
+|parent amanah uuid|||
+|type||folder / project / task|
 |title|||
 |color|||
+|status|||
 |description|||
+|time spent|||
 |start datetime|||
-|end datetime|||
-|creator uuid|||
+|finish datetime|||
+|owners uuid|||
 |creation datetime|||
