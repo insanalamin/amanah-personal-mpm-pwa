@@ -19,8 +19,8 @@ PWA for Amanah Personal Multi-Project Management Tool
 ### Amanah
 |Field|Type|Example|
 |---|---|---|
-|uuid|||
-|parent amanah uuid|||
+|uuid|UUID||
+|parent amanah uuid|UUID||
 |type||folder / project / task|
 |title|||
 |color|||
