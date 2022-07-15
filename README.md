@@ -1,5 +1,5 @@
-# Amanah Personal Multi Project Management & Habit Development Tool
-PWA for Amanah Personal Multi-Project Management Tool.
+# Amanah Personal Multi-Project Management & Habit Development Tool
+PWA for Amanah Personal Multi-Project Management & Habit Development Tool.
 Inspired by various to-do / project management / habit tools such as:
 - Dreamfora
 - Wrike
