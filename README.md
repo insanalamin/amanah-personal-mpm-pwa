@@ -1,5 +1,11 @@
 # amanah-personal-mpm-pwa
-PWA for Amanah Personal Multi-Project Management Tool
+PWA for Amanah Personal Multi-Project Management Tool.
+Inspired by various to-do / project management / habit tools such as:
+- Dreamfora
+- Wrike
+- Clickup
+- Time Planner
+- Project Schedule IAP
 
 ## Features
 - Nested Folder
