@@ -21,12 +21,12 @@ PWA for Amanah Personal Multi-Project Management Tool
 |---|---|---|
 |uuid|UUID||
 |parent amanah uuid|UUID||
-|type|integer|1 = task / 2 = folder / 3 = project|
+|type|integer|1 = task / 2 = group / 3 = project|
 |title|string||
 |color|string||
 |status|string||
 |description|string||
-|time spent|timestamp||
+|time spent|integer||
 |start datetime|timestamp||
 |finish datetime|timestamp||
 |owners uuid|UUID||
