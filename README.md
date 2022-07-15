@@ -20,7 +20,6 @@ PWA for Amanah Personal Multi-Project Management Tool
 |Field|Type|Example|
 |---|---|---|
 |uuid|UUID||
-|parent amanah uuid|UUID||
 |type|integer|1 = task / 2 = group / 3 = project|
 |title|string||
 |color|string||
@@ -31,3 +30,10 @@ PWA for Amanah Personal Multi-Project Management Tool
 |finish datetime|timestamp||
 |owners uuid|UUID||
 |creation datetime|timestamp||
+
+### Amanah Relation
+|Field|Type|Example|
+|---|---|---|
+|from amanah uuid|UUID||
+|to amanah uuid|UUID||
+|relation type|integer|1 = child of, 2 = successor of|
